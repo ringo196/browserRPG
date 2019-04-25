@@ -1,6 +1,6 @@
 # Notes
 
-#### Description
+#### Description:
 
 ![browserRPG screenshot](https://i.imgur.com/fBH4Pf8.png)
 
