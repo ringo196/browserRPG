@@ -1,10 +1,12 @@
 # Notes
 
-#### Browser RPG
+#### Description
+
+![browserRPG screenshot](https://i.imgur.com/fBH4Pf8.png)
 
 This is a project done as a coding challenge for an interview. The app is a simple text based browser RPG with features which include having save and loads through game id's and uses node.js and mongoDB in the back end, while being written with vanilla javascript, html and css for the frontend.
 
-![alt text](https://imgur.com/fBH4Pf8)
+
 
 #### Installation:
 - With Docker
